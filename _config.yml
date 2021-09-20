@@ -5,6 +5,8 @@ lang: fr-FR
 chapters:
  - title: Cours-web
    url: https://cours-web.ch/
+ - title: Créativité
+   url: https://cours-web.ch/crea/
 
    # Footer content
 # Content is split in three columns.   
