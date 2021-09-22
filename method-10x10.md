@@ -11,3 +11,7 @@ The 10 plus 10 Sketch Method
 Sources: 
 
 - [10 plus 10](https://www.thisisservicedesigndoing.com/methods/10-plus-10), #TISDD Method Library
+
+Dans le livre
+"[Sketching User Experiences : The Workbook](http://sketchbook.cpsc.ucalgary.ca/)"
+
