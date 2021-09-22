@@ -12,9 +12,11 @@ Sur la durée:
 
 > Sixty minutes seems to be the optimum length, in our experience, though occasionally a brainstorm can productively stretch to an hour and a half. The level of physical and mental energy required for a brainstorm is hard to sustain much longer than that.
 
-Il dévoile les "*Seven secrets for better brainstorming*":
+### Seven secrets for better brainstorming
 
-1. *Sharpen the Focus*. L'objectif, le brief du brainstorming est important. Il ne doit pas être trop vague. Il doit impliquer les participants, offrir le bon degré de spécificité, sans limiter les réponses. Si la session débute sans direction claire, utiliser les premières minutes pour déveloper un bon "problem statement".
+Tom Kelley décrit ainsi les "*Seven secrets for better brainstorming*":
+
+1. *Sharpen the Focus*. L'objectif, le brief du brainstorming est important. Il ne doit pas être trop vague. Il doit impliquer les participants, offrir le bon degré de spécificité, sans limiter les réponses. Si la session débute sans direction claire, utiliser les premières minutes pour déveloper un bon "problem statement" constitue du temps bien investi.
 2. *Playful Rules*. Les règles du brainstorming incluent: ne pas critiquer, ne pas débattre les idées, viser la quantité, encourager les idées folles.
 3. *Number your ideas*. C'est une manière de se motiver ("allons jusqu'à 100 idées"), et de référer à d'autres idées. Atteindre 100 idées en 1h est un bon indicateur. À 150/h, on est proche du maximum.
 4. *Build and jump*. Un brainstorming connaît des fluctuations d'énergie. L'animatrice doit veiller à maintenir un haut niveau, éviter les temps morts. Quand l'énergie faiblit, elle peut utiliser ces techniques: "*building on an idea*", pousser au développement d'une idée proposée, creuser. Ou alors, "*take a jump*": transitionner le groupe d'une proposition vers une idée alternative.
