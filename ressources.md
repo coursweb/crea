@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ressources
-permalink: ressources.html
+title: Ressources - livres
+permalink: ressources-livres.html
 ---
 
 Idées:
