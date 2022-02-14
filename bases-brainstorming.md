@@ -16,6 +16,8 @@ Sur la durée:
 
 Tom Kelley décrit ainsi les "*Seven secrets for better brainstorming*":
 
+<div class="cards"></div>
+
 1. *Sharpen the Focus*. L'objectif, le brief du brainstorming est important. Il ne doit pas être trop vague. Il doit impliquer les participants, offrir le bon degré de spécificité, sans limiter les réponses. Si la session débute sans direction claire, utiliser les premières minutes pour déveloper un bon "problem statement" constitue du temps bien investi.
 2. *Playful Rules*. Les règles du brainstorming incluent: ne pas critiquer, ne pas débattre les idées, viser la quantité, encourager les idées folles.
 3. *Number your ideas*. C'est une manière de se motiver ("allons jusqu'à 100 idées"), et de référer à d'autres idées. Atteindre 100 idées en 1h est un bon indicateur. À 150/h, on est proche du maximum.
@@ -27,6 +29,8 @@ Tom Kelley décrit ainsi les "*Seven secrets for better brainstorming*":
 ### Les pièges à éviter
 
 Kelley met aussi en garde contre les erreurs à éviter (*Six ways to kill a brainstormer*):
+
+<div class="cards"></div>
 
 1. *The boss gets to speak first*. Si le "boss" démarre le brainstorming, il va imposer son autorité, ce qui empêche une véritable libération des idées.
 2. *Everybody gets a turn*. Quand on fait le tour des participants et que chacun parle pendant 2 minutes, c'est une réunion, pas un brainstorming!
