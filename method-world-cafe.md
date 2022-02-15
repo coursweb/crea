@@ -16,6 +16,8 @@ Dans le livre *"Passez en mode workshop agile"* (Moutot, Autissier, Duperret 201
 
 Des tables thématiques ont été dressées avec la possibilité d'écrire sur les nappes, et/ou sur des paperboards. L'animateur·trice de chaque table est fixe, il ou elle anime les discussions à sa table tout au long du processus.
 
+![Source: manageduc.fr](images/illustration-world-cafe.jpg)
+
 Chaque table fait l'objet d'une thématique, généralement problématisée sous forme de question.
 
 Les participant·es vont tourner de table en table à fréquence régulière, en trois ou quatre «rounds» en tout. À chaque rotation, le temps passé au sein de la nouvelle table diminue (exemple: premier round: 45 min, deuxième round: 30 min, 20, 15, etc). Les participant·es ont ainsi la possibilité de prendre connaissance de ce que les groupes précédents ont proposé, puis de compléter et enrichir les productions.
