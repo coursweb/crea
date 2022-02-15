@@ -16,13 +16,20 @@ Les participant-es vont tourner de table en table à fréquence régulière, en 
 
 ## Pourquoi choisir cet atelier ?
 
-Le World Café stimule l'intelligence collective par un processus d'ouverture basé sur la fertilisation croisée (les groupes enrichissent et complètent les productions), et de recentrage efficace (diminution du temps passé sur chaque table nouvelle). Il est particulièrement utilisé quand il est nécessaire de mobiliser des groupes importants et de produire dans un temps limité un plan d'action, une feille de route.
+Le World Café stimule l'intelligence collective par un processus d'ouverture basé sur la fertilisation croisée (les groupes enrichissent et complètent les productions), et de recentrage efficace (diminution du temps passé sur chaque table nouvelle). Il est particulièrement utilisé quand il est nécessaire de mobiliser des groupes importants et de produire dans un temps limité un plan d'action, une feuille de route.
 
 ## Conseils
 
 - Bien choisir les animateurs-trices de chaque table et les briefer aux consignes d'animation.
 - Surveiller que l'ensemble des participant-es s'expriment, aller chercher les personnes muettes et recadrer gentiment les personnes trop bavardes.
 - Utiliser un espace suffisamment grand pour que le bruit ne soit pas un problème car les échanges sont généralement vifs et animés.
+
+## Liens et ressources
+
+- [Fiche World Café](https://www.atelier-collaboratif.com/58-world-cafe.html) sur L'atelier collaboratif
+- Retour d'expérience: [Mener une rétrospective multi-équipes : le World Café](https://jp-lambert.me/mener-une-r%C3%A9trospective-multi-%C3%A9quipes-le-world-caf%C3%A9-f7f7914a8655)
+- [World-Café](https://de.wikipedia.org/wiki/World-Caf%C3%A9), article wikipédia en allemand
+- Méthode proche: Knowledge café ou "[Café du savoir](https://fr.wikipedia.org/wiki/Caf%C3%A9_du_savoir)" (article Wikipédia)
 
 ## Explication en vidéo
 
