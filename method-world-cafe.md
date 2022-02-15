@@ -30,7 +30,9 @@ Les participant-es vont tourner de table en table à fréquence régulière, en 
 | 5) | 15‑30&nbsp;min (2h20) | Chaque animateur restitue le fruit des travaux de sa table. |
 | 6) | 5 min (2h25) | Le facilitateur annonce les prochaines étapes et conclut le World Café. |
 
-**Durée totale:** 2h25 avec trois rounds. 2h40 avec quatre rounds.
+**Durée totale:**  
+2h25 avec trois rounds.  
+2h40 avec quatre rounds.
 
 ## Pourquoi choisir cet atelier ?
 
