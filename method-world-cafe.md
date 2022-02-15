@@ -12,7 +12,23 @@ Le World Café est une technique phare de l'intelligence collective. Il permet �
 
 Des tables thématiques ont été dressées avec la possibilité d'écrire sur les nappes, et/ou sur des paperboards. L'animateur-trice de chaque table est fixe, il ou elle anime les discussions à sa table tout au long du processus.
 
+Chaque table fait l'objet d'une thématique, généralement problématisée sous forme de question.
+
 Les participant-es vont tourner de table en table à fréquence régulière, en trois ou quatre «rounds» en tout. À chaque rotation, le temps passé au sein de la nouvelle table diminue (exemple: premier round: 45 min, deuxième round: 30 min, 20, 15, etc). Les participant-es ont ainsi la possibilité de prendre connaissance de ce que les groupes précédents ont proposé, puis de compléter et enrichir les productions.
+
+- **Au premier tour** : Les participants se répartissent par table (sur la base du volontariat ou d'un plan de table). Chaque animateur note au fur et à mesure les idées émises au paperboard ou sur la nappe en papier. Le premier round dure généralement entre 30 et 45 minutes.
+- **Aux tours suivants** : Les participants changent de table. En général, on demande à chaque groupe de tourner d'un cran. L'animateur de chaque table prend quelques minutes pour faire état des réflexions issues du premier round. Puis les participants complètent, enrichissent, demandent des clarifications, peuvent challenger de manière constructive les propositions déjà émises dans le but de les rendre plus robustes. Par la rapidité imposée via ce rythme qui s'accélère à chaque round, les participants entrent dans un mode de réflexion / production efficace et concis.
+
+### Exemple de structure
+
+| Étape   | Timing  | Quoi?    |
+|:------- |:------- |:----------------- |
+| Étape 1 | 15 min | Le facilitateur introduit l'atelier et présente les thématiques et les animateurs de chaque table. Chaque animateur de table peut dire un mot de son thème et des attendus. |
+| Étape 2 | 45 min | Premier round : les participants se répartissent par table. Chaque animateur note les idées émises. |
+| Étape 3 | 30 min | Deuxième round : les participants changent de table. L'animateur de chaque table prend quelques minutes pour faire état des réflexions issues du premier round. Puis les participants complètent, enrichissent. |
+| Étape 4 | 20 min | Le troisième round démarre pour 20 minutes, éventuellement un quatrième pour 15 minutes. |
+| Étape 5 | 15-30 min | Chaque animateur restitue le fruit des travaux de sa table. |
+| Étape 6 | 5 min | Le facilitateur annonce les prochaines étapes et conclut le World Café. |
 
 ## Pourquoi choisir cet atelier ?
 
