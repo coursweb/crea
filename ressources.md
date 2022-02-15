@@ -30,3 +30,5 @@ permalink: ressources-livres.html
 ### Sur les ateliers de créativité / brainstorming
 
 - *Passez en mode workshop agile ! : 50 nouveaux ateliers pour améliorer l'agilité de votre équipe*. Jean-Michel Moutot ; David Autissier ; François-Xavier Duperret. Montreuil : Pearson France, (2018). (658 MOU)
+
+![](images/cover-workshop-agile.jpg)

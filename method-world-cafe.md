@@ -6,6 +6,8 @@ permalink: methode-world-cafe.html
 
 Le World Café est une technique phare de l'intelligence collective. Ce format de réunion a été défini par Juanita Brown et David Isaacs en 1995, lors d'une réunion avec 24 participant·es. La méthode a été développée ensuite dans le cadre du *Institute for Social Innovation* à l'Université de Fielding.
 
+![Source: myhappyjob.fr](images/world-cafe.jpg)
+
 Le World Café permet à un grand groupe de participants (généralement entre vingt et cent personnes) de brainstormer, par table, sur des thématiques imaginées en amont, et de compléter de manière itérative les productions avec le regard neuf des participants qui passent de table en table.
 
 Dans le livre *"Passez en mode workshop agile"* (Moutot, Autissier, Duperret 2018), le World Café est présenté comme un format permettant de structurer un workshop. C'est cette version qui est présentée ci-dessous.
