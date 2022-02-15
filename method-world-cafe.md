@@ -54,7 +54,3 @@ Vidéo explicative, par EC4CI (European Centre for Collective Intelligence):
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/KxRw34MvH5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Vidéo explicative, par l'atelier Canopé île de France:
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/bH6KvbVcp8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
