@@ -27,7 +27,7 @@ Les participant-es vont tourner de table en table à fréquence régulière, en 
 | 2) | 45 min (1h) | Premier round : les participants se répartissent par table. Chaque animateur note les idées émises. |
 | 3) | 30 min (1h30) | Deuxième round : les participants changent de table. L'animateur de chaque table prend quelques minutes pour faire état des réflexions issues du premier round. Puis les participants complètent, enrichissent. |
 | 4) | 20 min (1h50) | Le troisième round démarre pour 20 minutes, éventuellement un quatrième pour 15 minutes. |
-| 5) | 15-30&nbsp;min (2h20) | Chaque animateur restitue le fruit des travaux de sa table. |
+| 5) | 15‑30&nbsp;min (2h20) | Chaque animateur restitue le fruit des travaux de sa table. |
 | 6) | 5 min (2h25) | Le facilitateur annonce les prochaines étapes et conclut le World Café. |
 
 **Durée totale:** 2h25 avec trois rounds. 2h40 avec quatre rounds.
