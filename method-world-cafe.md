@@ -23,12 +23,12 @@ Les participant-es vont tourner de table en table à fréquence régulière, en 
 
 | Étape   | Timing  | Quoi?    |
 |:------- |:------- |:----------------- |
-| Étape 1 | 15 min | Le facilitateur introduit l'atelier et présente les thématiques et les animateurs de chaque table. Chaque animateur de table peut dire un mot de son thème et des attendus. |
-| Étape 2 | 45 min | Premier round : les participants se répartissent par table. Chaque animateur note les idées émises. |
-| Étape 3 | 30 min | Deuxième round : les participants changent de table. L'animateur de chaque table prend quelques minutes pour faire état des réflexions issues du premier round. Puis les participants complètent, enrichissent. |
-| Étape 4 | 20 min | Le troisième round démarre pour 20 minutes, éventuellement un quatrième pour 15 minutes. |
-| Étape 5 | 15-30 min | Chaque animateur restitue le fruit des travaux de sa table. |
-| Étape 6 | 5 min | Le facilitateur annonce les prochaines étapes et conclut le World Café. |
+| 1) | 15 min | Le facilitateur introduit l'atelier et présente les thématiques et les animateurs de chaque table. Chaque animateur de table peut dire un mot de son thème et des attendus. |
+| 2) | 45 min | Premier round : les participants se répartissent par table. Chaque animateur note les idées émises. |
+| 3) | 30 min | Deuxième round : les participants changent de table. L'animateur de chaque table prend quelques minutes pour faire état des réflexions issues du premier round. Puis les participants complètent, enrichissent. |
+| 4) | 20 min | Le troisième round démarre pour 20 minutes, éventuellement un quatrième pour 15 minutes. |
+| 5) | 15-30&nbsp;min | Chaque animateur restitue le fruit des travaux de sa table. |
+| 6) | 5 min | Le facilitateur annonce les prochaines étapes et conclut le World Café. |
 
 ## Pourquoi choisir cet atelier ?
 
