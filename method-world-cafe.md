@@ -18,9 +18,9 @@ Des tables thématiques ont été dressées avec la possibilité d'écrire sur l
 
 ![Source: manageduc.fr](images/illustration-world-cafe.jpg)
 
-Chaque table fait l'objet d'une thématique, généralement problématisée sous forme de question.
+**Chaque table** fait l'objet d'une **thématique**, généralement problématisée sous forme de **question**.
 
-Les participant·es vont tourner de table en table à fréquence régulière, en trois ou quatre «rounds» en tout. À chaque rotation, le temps passé au sein de la nouvelle table diminue (exemple: premier round: 45 min, deuxième round: 30 min, 20, 15, etc). Les participant·es ont ainsi la possibilité de prendre connaissance de ce que les groupes précédents ont proposé, puis de compléter et enrichir les productions.
+Les participant·es vont tourner de table en table à fréquence régulière, en **trois ou quatre «rounds»** en tout. À chaque rotation, le temps passé au sein de la nouvelle table diminue (exemple: premier round: 45 min, deuxième round: 30 min, 20, 15, etc). Les participant·es ont ainsi la possibilité de prendre connaissance de ce que les groupes précédents ont proposé, puis de compléter et enrichir les productions.
 
 - **Au premier tour** : Les participant·es se répartissent par table (sur la base du volontariat ou d'un plan de table). Chaque animateur·trice note au fur et à mesure les idées émises au paperboard ou sur la nappe en papier. Le premier round dure généralement entre 30 et 45 minutes.
 - **Aux tours suivants** : Les participant·es changent de table. En général, on demande à chaque groupe de tourner d'un cran. L'animateur·trice de chaque table prend quelques minutes pour faire état des réflexions issues du premier round. Puis les participant·es complètent, enrichissent, demandent des clarifications, peuvent challenger de manière constructive les propositions déjà émises dans le but de les rendre plus robustes. Par la rapidité imposée via ce rythme qui s'accélère à chaque round, les participant·es entrent dans un mode de réflexion / production efficace et concis.
@@ -32,7 +32,7 @@ Les participant·es vont tourner de table en table à fréquence régulière, en
 | 1) | 15 min | Le facilitateur·trice introduit l'atelier et présente les thématiques et les animateurs·trices de chaque table. Chaque animateur·trice de table peut dire un mot de son thème et des attendus. |
 | 2) | 45 min (1h) | **Premier round** : les participant·es se répartissent par table. Chaque animateur·trice note les idées émises. |
 | 3) | 30 min (1h30) | **Deuxième round** : les participant·es changent de table. L'animateur·trice de chaque table résume les réflexions issues du premier round. Puis les participants·es complètent, enrichissent. |
-| 4) | 20 min (1h50) | Le **troisième round** démarre pour 20 minutes, éventuellement un quatrième pour 15 minutes. |
+| 4) | 20 min (1h50) | Le **troisième round** démarre pour 20 minutes, éventuellement un **quatrième** pour 15 minutes. |
 | 5) | 15‑30&nbsp;min (2h20) | Chaque animateur·trice restitue le fruit des travaux de sa table. |
 | 6) | 5 min (2h25) | Le facilitateur·trice annonce les prochaines étapes et conclut le World Café. |
 
