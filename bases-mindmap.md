@@ -20,7 +20,7 @@ Dans son livre "Une tête bien faite" (1974), Buzan propose 7 "règles du mindma
 6. Utiliser des couleurs.
 7. Garder l'esprit LIBRE!
 
-![Source: Mindmap selon les règles Tony Buzan](images/mindmap-buzan.jpg)
+![Source: Mindmap selon les règles de Tony Buzan](images/mindmap-buzan.jpg)
 
 ## Utilisations du Mindmap
 
