@@ -8,7 +8,7 @@ permalink: ressources-livres.html
 ### Livres autour de la créativité
 
 - Guillaume Lamarre. *La Voie du créatif*. Pyramyd.
-- *L'art du storytelling*, Guillaume Lamarre, Pyramyd.
+- Guillaume Lamarre, *L'art du storytelling*, Pyramyd.
 - Dorte Nielsen, Sarah Thurber. *Les secrets de la pensée créative*. Pyramyd.
 - Jake Knapp (2019). *Sprint : Résoudre les problèmes et trouver de nouvelles idées en cinq jours*. Eyrolles. (658 KNA)
 - Jean-Michel Moutot, David Autissier, François-Xavier Duperret (2018). *Passez en mode workshop agile ! : 50 nouveaux ateliers pour améliorer l'agilité de votre équipe*. Pearson France. (658 MOU)
