@@ -8,14 +8,14 @@ Méthodes de Michael Michalko
 
 Dans son livre "Cracking Creativity", Michalko présente plusieurs méthodes de "Brainwriting".
 
-### Exercice des "10 premières idées"
+### Exercice des "10 premières idées"
 
 - Chaque personne note sur une feuille le "thème central" de la séance de brainstorming.
 - Chaque personne note tout autour "les 10 premiers mots" qui viennent à l'esprit.
 - On vérifie quels sont les mots que le groupe a en commun, qui se retrouvent sur plusieurs feuilles (il y a en aura normalement très peu).
 - On en fait le prochain "mot central", et on recommence l'exercice.
 
-### Brainwriting
+### Brainwriting
 
 Michalko indique que cette méthode a été développée par [Richard Feynman](https://fr.wikipedia.org/wiki/Richard_Feynman) (physicien travaillant sur la première bombe atomique, dans le projet Manhattan), et Horst Geschka au Batelle Institut de Francfort.
 
@@ -36,7 +36,7 @@ Avantages par rapport au Brainstorming classique:
 
 ### Variantes du Brainwriting
 
-#### Wall of Ideas
+#### Wall of Ideas
 
 1. Pendant la phase de production, l'animatrice récolte les idées, et les affiche contre un mur.
 2. Une fois l'écriture terminée, l'animatrice lit toutes les idées, s'assure que tout le monde les comprend. Si nécessaire, poser des questions de clarification et compléter les cartes (avec une autre couleur).
@@ -46,7 +46,7 @@ Avantages par rapport au Brainstorming classique:
 6. **Prioriser** avec des gommettes de couleur données à chaque participant·e.
 7. **Dernière étape**: on rédige un document de synthèse, qui est imprimé et donné à chaque participant·e.
 
-#### Three Plus
+#### Three Plus
 
 1. Chaque participant·e écrit silencieusement 3 idées, sur 3 différentes feuilles (en haut de la page).
 2. Les feuilles tournent (les passer à la personne à sa droite).
@@ -103,4 +103,4 @@ Par exemple: pendant 10 minutes, chacun·e doit, de manière individuelle, inven
 
 - Michael Michalko (2001), *Cracking Creativity*, Berkeley: Ten Speed Press.
 - [Sur le blog de Michael Michalko](https://imagine-er7.com/2017/02/23/group-creative-thinking-technique-brainwriting/) (2017)
-- *6-3-5 Brainwriting*, [article wikipédia](https://en.wikipedia.org/wiki/6-3-5_Brainwriting)
+- *6-3-5 Brainwriting*, [article Wikipédia](https://en.wikipedia.org/wiki/6-3-5_Brainwriting)
