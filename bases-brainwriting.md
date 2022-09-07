@@ -93,8 +93,6 @@ Une méthode présentée dans un [article wikipédia](https://en.wikipedia.org/w
 - The process goes on until the worksheet is completely filled in, but if the supervisor deems it necessary, the time for each round may be extended to a maximum of 10 minutes.
 - The conclusion of the brainstorming session is a preliminary screening of the ideas that have been gathered, where exact duplicates are deleted, and a team evaluation takes place, perhaps using the Nominal Group Technique or Prioritization matrix, to select 1 to 3 ideas the group can focus on.
 
-
-
 #### Mixed Sessions
 
 Interrompre le Brainstorming par une "Creative-Thinking Technique".
