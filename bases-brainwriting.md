@@ -38,8 +38,8 @@ Avantages par rapport au Brainstorming classique:
 
 #### Wall of Ideas
 
-1. Pendant la phase de production, l'animatrice récolte les idées, et les affiche contre un mur.
-2. Une fois l'écriture terminée, l'animatrice lit toutes les idées, s'assure que tout le monde les comprend. Si nécessaire, poser des questions de clarification et compléter les cartes (avec une autre couleur).
+1. Pendant la phase de production, l'animateur·trice récolte les idées, et les affiche contre un mur.
+2. Une fois l'écriture terminée, l'animateur·trice lit toutes les idées, s'assure que tout le monde les comprend. Si nécessaire, poser des questions de clarification et compléter les cartes (avec une autre couleur).
 3. **Organiser** les idées. Le groupe doit les déplacer et les grouper par catégories.
 4. Chaque catégorie reçoit une carte-titre. Il faut **nommer** chaque catégorie. Il peut y avoir des sous-catégories.
 5. On peut ajouter des post-its pour compléter, commenter, indiquer des problèmes.
@@ -60,9 +60,9 @@ C'est une méthode qui combine la production d'idées silencieuse avec le coupla
 
 1. Discuter le problème. L'écrire de manière à ce qu'il soit visible pour tout le monde.
 2. Chaque participant·e produit **8 réponses ou idées**, sur des cartes (une idée par carte).
-3. L'animatrice récolte et mélange toutes les cartes.
+3. L'animateur·trice récolte et mélange toutes les cartes.
 4. **Trois cartes** sont distribuées à chaque participant·e (personne ne doit reçevoir ses propres cartes).
-5. Chaque personne étudie ses cartes, et les ordonne par préférence. Pendant ce temps, l'animatrice dispose les cartes restantes sur une table, face visible.
+5. Chaque personne étudie ses cartes, et les ordonne par préférence. Pendant ce temps, l'animateur·trice dispose les cartes restantes sur une table, face visible.
 6. Les participant·es peuvent débarrasser des cartes qui leur déplaisent, en échangeant avec celles sur la table. Durée: quelques minutes.
 7. Les participant·es doivent échanger des cartes entre eux. Chaque personne doit échanger au moins une carte (pas de maximum).
 8. Les participant·es se rassemblent par groupes (*clusters*). Il n'y a pas de nombre limite, mais chaque cluster va conserver uniquement **trois cartes**.
