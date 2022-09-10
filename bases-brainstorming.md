@@ -19,7 +19,7 @@ Dans le livre *The Art of Innovation* (2001), Tom Kelley décrit (p.55-66) les p
 
 À propos de la durée d'une séance, Tom Kelley indique:
 
-> Sixty minutes seems to be the optimum length, in our experience, though occasionally a brainstorm can productively stretch to an hour and a half. The level of physical and mental energy required for a brainstorm is hard to sustain much longer than that.
+> **Sixty minutes** seems to be the optimum length, in our experience, though occasionally a brainstorm can productively stretch to an hour and a half. The level of physical and mental energy required for a brainstorm is hard to sustain much longer than that.
 
 ### Seven secrets for better brainstorming
 
@@ -33,7 +33,7 @@ Kelley décrit ainsi les "*Seven secrets for better brainstorming*":
 6. **Stretch your mental muscles**. Il est utile de faire un exercice de "warm-up" (p.ex. "a fast-paced word game"), pour mettre les participant·es dans le bon état d'esprit.
 7. **Get physical**. Un brainstorming peut être visuel ("sketching, mind mapping, diagrams, stick figures"), ou physique (création de modèles avec des "blocks, foam core, tubing, duct tape..."). Ou se transformer en "bodystorming", en mimant physiquement des activités.
 
-Dans le livre *Cracking Creativity*, Michael Michalko indique quelques autres points importants:
+Michael Michalko, dans son livre *Cracking Creativity*, indique d'autres points importants:
 
 - **La diversité des participant·es**: il est préférable d'avoir un groupe qui mélange des expert·es et non-expert·es, qui réunit des compétences variées.
 - **La collégialité**: tout le monde doit se sentir au même niveau, sans hiérarchie.
@@ -41,7 +41,7 @@ Dans le livre *Cracking Creativity*, Michael Michalko indique quelques autres po
 - Un environnement favorable, stimulant, une "risk-free zone".
 - Une personne pour modérer la séance (a "skilled facilitator").
 
-Les tâches de la modération:
+Le rôle de la modération:
 
 - Garder le groupe concentré sur le problème.
 - Eviter que le groupe se laisse entraîner, par habitude, vers des attitudes critiques, des jugements.
@@ -53,7 +53,7 @@ Les tâches de la modération:
 Kelley met en garde contre des erreurs à éviter (*Six ways to kill a brainstormer*):
 
 1. *The boss gets to speak first*. Si le/la "boss" démarre le brainstorming, iel va imposer son autorité, ce qui empêche une véritable libération des idées.
-2. *Everybody gets a turn*. Quand on fait le tour des participant·es et que chacun·e parle pendant 2 minutes, c'est une réunion, pas un brainstorming!
+2. *Everybody gets a turn*. Quand on fait le tour des participant·es et que chacun·e parle pendant 2 minutes, c'est une réunion, pas un brainstorming.
 3. *Experts only please*
 4. *Do it off-site*. Inutile d'aller dans un endroit "spécial", mieux vaut utiliser l'environnement de travail quotidien.
 5. *No silly stuff*
