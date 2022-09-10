@@ -10,7 +10,7 @@ Les Crazy 8 sont un outil classique de la méthodologie "Design Sprint".
 
 Une méthode pour la génération d'idées: en 8 minutes, chaque participant produit 8 idées, dessinées dans une case sur une feuille divisée en 8.
 
-Dans le "Design Sprint Framework", le Crazy 8 fait partie des "Core Methods": [Crazy 8's - Google](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s)
+Dans le "Design Sprint Framework" de Google, le Crazy 8 fait partie des "Core Methods": [Crazy 8's - Google](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s)
 
 L'exercice est suivi par une étape de présentation et de vote:
 *[Crazy 8's Sharing and Voting](Crazy 8's Sharing and Voting)*.
