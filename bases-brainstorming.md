@@ -8,10 +8,10 @@ permalink: brainstorming.html
 
 Le site 180x360.net propose quatre règles fondamentales ou principes-clés :
 
-- le jugement est suspendu (c'est l'élément fondateur du brainstorming: aucune critique n'est autorisée durant la phase de production d'idées) ;
-- la quantité prime sur la qualité (principe statistique: il y a plus de chance de trouver une bonne idée au sein d'un quota important) ;
-- toutes les idées sont acceptées y compris les idées farfelues ou irréalistes (derrière une idée décalée, il y a très souvent un filon exploitable) ;
-- la démultiplication est encouragée (construire des idées en s'inspirant des autres).
+- **le jugement est suspendu** (c'est l'élément fondateur du brainstorming: aucune critique n'est autorisée durant la phase de production d'idées) ;
+- **la quantité** prime sur la qualité (principe statistique: il y a plus de chance de trouver une bonne idée au sein d'un quota important) ;
+- **toutes les idées** sont acceptées y compris les idées farfelues ou irréalistes (derrière une idée décalée, il y a très souvent un filon exploitable) ;
+- **la démultiplication** est encouragée (construire des idées en s'inspirant des autres).
 
 ## L'art du Brainstorming selon IDEO
 
