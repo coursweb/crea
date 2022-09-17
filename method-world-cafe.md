@@ -10,7 +10,9 @@ Le World Café est une technique phare de l'intelligence collective. Ce format d
 
 Le World Café permet à un grand groupe de participants (généralement entre vingt et cent personnes) de brainstormer, par table, sur des thématiques imaginées en amont, et de compléter de manière itérative les productions avec le regard neuf des participants qui passent de table en table.
 
-Dans le livre *"Passez en mode workshop agile"* (Moutot, Autissier, Duperret 2018), le World Café est présenté comme un format permettant de structurer un workshop. C'est cette version qui est présentée ci-dessous.
+Dans le livre *"Passez en mode workshop agile"* (Moutot, Autissier, Duperret 2018), le World Café est présenté comme un format permettant de structurer un workshop.
+
+Ce format est également décrit dans *Collective Efficacy: How Educator’s Beliefs Impact Student Learning* (Donohoo 2107), comme un outil pour révéler les croyances d'une communauté d'enseignants.
 
 ## Comment ça fonctionne ?
 
@@ -23,9 +25,11 @@ Des tables thématiques ont été dressées avec la possibilité d'écrire sur l
 Les participant·es vont tourner de table en table à fréquence régulière, en **trois ou quatre «rounds»** en tout. À chaque rotation, le temps passé au sein de la nouvelle table diminue (exemple: premier round: 45 min, deuxième round: 30 min, 20, 15, etc). Les participant·es ont ainsi la possibilité de prendre connaissance de ce que les groupes précédents ont proposé, puis de compléter et enrichir les productions.
 
 - **Au premier tour** : Les participant·es se répartissent par table (sur la base du volontariat ou d'un plan de table). Chaque animateur·trice note au fur et à mesure les idées émises au paperboard ou sur la nappe en papier. Le premier round dure généralement entre 30 et 45 minutes.
-- **Aux tours suivants** : Les participant·es changent de table. En général, on demande à chaque groupe de tourner d'un cran. L'animateur·trice de chaque table prend quelques minutes pour faire état des réflexions issues du premier round. Puis les participant·es complètent, enrichissent, demandent des clarifications, peuvent challenger de manière constructive les propositions déjà émises dans le but de les rendre plus robustes. Par la rapidité imposée via ce rythme qui s'accélère à chaque round, les participant·es entrent dans un mode de réflexion / production efficace et concis.
+- **Aux tours suivants** : Les participant·es changent de table. En général, on demande à chaque groupe de tourner d'un cran. Mais on peut aussi demander aux participant·es de choisir librement la prochaine table, la composition des groupes peut ainsi changer. L'animateur·trice de chaque table prend quelques minutes pour faire état des réflexions issues du premier round. Puis les participant·es *complètent*, *enrichissent*, *demandent des clarifications*, peuvent *challenger de manière constructive* les propositions déjà émises dans le but de les rendre plus robustes. Par la rapidité imposée via ce rythme qui s'accélère à chaque round, les participant·es entrent dans un mode de réflexion / production efficace et concis.
 
-### Exemple de structure
+### Exemple de structure #1 (2h40)
+
+Cette structure est proposée dans *"Passez en mode workshop agile"*.
 
 | Étape   | Timing  | Quoi?    |
 |:------- |:------- |:----------------- |
@@ -39,6 +43,20 @@ Les participant·es vont tourner de table en table à fréquence régulière, en
 **Durée totale:**  
 2h25 avec trois rounds.  
 2h40 avec quatre rounds.
+
+### Exemple de structure #2 (1h30)
+
+Cette structure est proposée dans *Collective Efficacy*.
+
+| Étape   | Timing  | Quoi?    |
+|:------- |:------- |:----------------- |
+| 1) | 5 min | Bienvenue et introduction. |
+| 2) | 20 min (25m) | **Premier round** : les participant·es se répartissent par table. Chaque animateur·trice note les idées émises. |
+| 3) | 20 min (45m) | **Deuxième round**. |
+| 4) | 20 min (1h05) | **Troisième round**. |
+| 5) | 25 min (1h30) | **Restitution**. Chaque animateur·trice restitue le fruit des travaux de sa table. |
+
+
 
 ## Pourquoi choisir cet atelier ?
 
