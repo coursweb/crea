@@ -74,8 +74,8 @@ Une méthode alternative.
 
 1. Pendant 5 minutes, chacun écrit un maximum d'idées sur des fiches (index cards).
 2. Diviser le groupe en équipes de 3 à 6 personnes.
-3. Chaque équipes rassemble ses fiches, et les ordonnes par préférence.
-4. Chaque équipes conserve ses "top-5 ideas", les autres sont posées sur une table, face visible. Les équipes peuvent consulter ces fiches et les utiliser.
+3. Chaque équipe rassemble ses fiches, et les ordonne par préférence.
+4. Chaque équipe conserve ses "top-5 ideas", les autres sont posées sur une table, face visible. Les équipes peuvent consulter ces fiches et les utiliser.
 5. Les équipes discutent les idées choisies, et peuvent les améliorer, ou en produire de nouvelles. Chaque équipe doit toujours en conserver cinq.
 6. Toutes les équipes se réunissent, et expliquent leurs idées aux autres.
 7. Le groupe entier se concerte pour réduire la liste totale à **cinq idées**.
