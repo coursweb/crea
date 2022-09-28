@@ -19,19 +19,19 @@ Dans son livre "Cracking Creativity", Michalko présente plusieurs méthodes de 
 
 Michalko indique que cette méthode a été développée par [Richard Feynman](https://fr.wikipedia.org/wiki/Richard_Feynman) (physicien travaillant sur la première bombe atomique, dans le projet Manhattan), et Horst Geschka au Batelle Institut de Francfort.
 
-Les étapes d'une séance de Brainwriting:
+**Les étapes d'une séance de Brainwriting:**
 
 1. Discuter le problème. L'écrire de manière à ce qu'il soit visible pour tout le monde.
 2. Distribuer des "cartes index". Chaque participant·e écrit une idée par carte, en silence.
 3. Une fois remplie, passer la carte à la voisin·e de droite, en silence.
 4. Les cartes reçues sont des "stimulations". On peut réagir par de nouvelles idées, sur de nouvelles cartes.
 5. Après 20 à 30 minutes, récolter toutes les cartes produites. Eliminer les doublons.
-6. Distribuer à chaque participant·e des gommettes (env 5), qu'iel collera sur les meilleures idées.
+6. Distribuer à chaque participant·e des gommettes (env 5), qu'on colle sur les meilleures idées.
 
-Avantages par rapport au Brainstorming classique: 
+**Avantages par rapport au Brainstorming classique:**
 
-- On travaille en parallèle, cela permet de produire plus d'idées spontanées en un temps limité. 
-- Les personnes timides pourront s'exprimer plus facilement, il y a moins de pression.
+- On travaille en parallèle, cela permet de produire plus d'idées spontanées dans le même temps. 
+- Les personnes timides peuvent s'exprimer plus facilement. Il y a moins de pression.
 - Environnement plus silencieux.
 
 ### Variantes du Brainwriting
@@ -83,15 +83,15 @@ Une méthode alternative.
 
 #### 6-3-5 Brainwriting
 
-Une méthode présentée dans un [article wikipédia](https://en.wikipedia.org/wiki/6-3-5_Brainwriting), attribuée à Bernd Rohrbach.
+Une méthode présentée dans un [article wikipédia](https://en.wikipedia.org/wiki/6-3-5_Brainwriting).
 
-"In brief, it consists of 6 participants supervised by a moderator who are required to write down 3 ideas on a specific worksheet within 5 minutes; this is also the etymology of the methodology's name. The outcome after 6 rounds, during which participants swap their worksheets passing them on to the team member sitting at their right, is 108 ideas generated in 30 minutes."
+"In brief, it consists of **6 participants** supervised by a moderator who are required to write down **3 ideas** on a specific worksheet within **5 minutes**; this is also the etymology of the methodology's name. The outcome after 6 rounds, during which participants swap their worksheets passing them on to the team member sitting at their right, is **108 ideas** generated in **30 minutes**."
 
 - Once the topic of the session is narrowed down to a problem statement, this is announced and written on top of the *Idea Form*. This is a worksheet that has to be handed out to each participant and consists of a grid where the heading of the columns are *Idea 1*, *Idea 2* and *Idea 3* and the rows identify the name of who has contributed to that particular suggestion.
 - Participants are given **5 minutes** to complete the first row and write down the first ideas, working in silence. These may be expressed in any graphical form: written, drawn, through a symbol, or however the author prefers.
 - The sheet is passed on to the next participant on the right. Now the process is repeated and each participant is free to get inspired from the idea he reads on the sheet written by his neighbour and contribute to them by integrating or completing them, or decide to ignore them and start a new one from scratch.
 - The process goes on until the worksheet is completely filled in, but if the supervisor deems it necessary, the time for each round may be extended to a maximum of 10 minutes.
-- The conclusion of the brainstorming session is a preliminary screening of the ideas that have been gathered, where exact duplicates are deleted, and a team evaluation takes place, perhaps using the Nominal Group Technique or Prioritization matrix, to select 1 to 3 ideas the group can focus on.
+- The conclusion of the brainstorming session is a preliminary screening of the ideas that have been gathered, where exact duplicates are deleted, and a team evaluation takes place, perhaps using the *Nominal Group Technique* or *Prioritization matrix*, to select 1 to 3 ideas the group can focus on.
 
 #### Mixed Sessions
 
