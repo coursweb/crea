@@ -6,7 +6,9 @@ permalink: brainstorming.html
 
 ## Règles de base
 
-Le site 180x360.net propose quatre règles fondamentales ou principes-clés :
+Les règles du Brainstorming ont élaborées dans les années 1940 par Alex Osborn, un publicitaire américain.
+
+Le site 180-360.net propose quatre règles fondamentales ou principes-clés :
 
 - **le jugement est suspendu** (c'est l'élément fondateur du brainstorming: aucune critique n'est autorisée durant la phase de production d'idées) ;
 - **la quantité** prime sur la qualité (principe statistique: il y a plus de chance de trouver une bonne idée au sein d'un quota important) ;
