@@ -17,11 +17,11 @@ Le site 180-360.net propose quatre règles fondamentales ou principes-clés :
 
 ## L'art du Brainstorming selon IDEO
 
-Dans le livre *The Art of Innovation* (2001), Tom Kelley décrit (p.55-66) les principes de brainstorming pratiqués par l'agence IDEO (entreprise de design américaine qui a créé notamment la première souris d'Apple). 
+Dans le livre *The Art of Innovation* (2001), Tom Kelley décrit (p.55-66) les principes de brainstorming pratiqués par l'agence IDEO (entreprise de design américaine qui a créé notamment la première souris pour Apple). 
 
 À propos de la durée d'une séance, Tom Kelley indique:
 
-> **Sixty minutes** seems to be the optimum length, in our experience, though occasionally a brainstorm can productively stretch to an hour and a half. The level of physical and mental energy required for a brainstorm is hard to sustain much longer than that.
+> **Soixante minutes** semble être la durée optimale, selon mon expérience, même si occasionnellement un brainstorming peut durer une heure et demie. Il est difficile de maintenir le niveau d'énergie requis au-delà de cette durée.
 
 ### Seven secrets for better brainstorming
 

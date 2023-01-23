@@ -6,7 +6,7 @@ permalink: crazy-eights.html
 
 Les Crazy 8 sont un outil classique de la méthodologie "Design Sprint".
 
-> It is a fast sketching exercise that challenges people to sketch eight distinct ideas in eight minutes. The goal is to push people beyond their first idea by suppressing self-judgment and making their ideas tangible.
+> Le Crazy 8 est un exercice d'esquisse rapide, le défi étant d'esquisser huit différentes idées en huit minutes. Le but est de pousser les gens à dépasser leur première idée, en suppriment l'auto-critique et en rendant les idées tangibles. (source: Google Design Sprints)
 
 Une méthode pour la génération d'idées: en 8 minutes, chaque participant produit 8 idées, dessinées dans une case sur une feuille divisée en 8.
 

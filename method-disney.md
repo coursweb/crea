@@ -8,7 +8,7 @@ permalink: methode-walt-disney.html
 
 Selon [l'article wikipédia](https://fr.wikipedia.org/wiki/M%C3%A9thode_Walt_Disney):
 
-> La Méthode Walt Disney (ou Stratégie Walt Disney) est une méthode de créativité qui se base sur le jeu de rôle par laquelle une ou plusieurs personnes considère et examine un problème selon trois points de vue1.
+> La Méthode Walt Disney (ou Stratégie Walt Disney) est une méthode de créativité qui se base sur le jeu de rôle par laquelle une ou plusieurs personnes considère et examine un problème selon trois points de vue.
 
 Les rôles sont définis ainsi :
 

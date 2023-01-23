@@ -4,9 +4,9 @@ title: 10 plus 10
 permalink: 10-10-sketch.html
 ---
 
-The 10 plus 10 Sketch Method
+La méthode 10 plus 10
 
-> The 10 plus 10 exercise is a great way to get started with a design challenge. Based on a common starting point, group members work individually to quickly sketch several ideas each, making around 10 ideas per group. They share the ideas within the group and choose one sketch as the starting point for the next round. After the second round, there are about 20 sketches per team on the table – a wide range of options from the first round, and a deeper drill from the second. All 20 are useful.
+> La méthode "10 plus 10" est une bonne manière d'aborder un mandat de design. En partant d'un même point de départ, les membres du groupe travaillent individuellement pour esquisser plusieurs idées, et en produisent 10 par groupe. Les idées sont partagées avec le groupe, et une esquisse est choisie comme point de départ pour le deuxième tour. Après le second tour, chaque groupe dispose d'environ 20 esquisses: une palette d'options du premier tour, et des idées approfondies venant du 2e tour. Toutes ces propositions sont utiles. (source: TISDD Method Library)
 
 ## Sources
 
